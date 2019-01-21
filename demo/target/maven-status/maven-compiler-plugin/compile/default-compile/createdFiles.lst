@@ -1,0 +1,8 @@
+urlshortener/app/ShortenRequest.class
+com/vanhack/urlshortener/IDConverter.class
+com/vanhack/urlshortener/UrlShortener.class
+com/vanhack/urlshortener/DemoApplication.class
+urlshortener/app/URLController.class
+urlshortener/app/URLRepository.class
+urlshortener/app/URLConverterService.class
+urlshortener/app/URLValidator.class
